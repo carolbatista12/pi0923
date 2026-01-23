@@ -1,0 +1,2 @@
+### GET marcas
+GET http://localhost:3001/api/marcas
